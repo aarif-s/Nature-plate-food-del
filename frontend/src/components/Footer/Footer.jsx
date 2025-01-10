@@ -7,11 +7,11 @@ const Footer = () => {
     <div className='footer' id='footer'>
         <div className="footer-content">
              <div className="footer-content-left">
-                <img src={assets.logo} alt="" /> 
+                <img width="150px" src={assets.logo} alt="" /> 
                 <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. At totam quas magni velit eveniet alias autem delectus cumque officiis commodi, consequatur modi possimus quos similique sit praesentium ducimus vel accusantium.</p>
                 <div className="footer-social-icons">
                   <a href="https://www.linkedin.com/in/arif-ali-647001247/"><img src={assets.facebook_icon} alt="" /></a> 
-                 <a href="https://www.linkedin.com/in/arif-ali-647001247/"><img src={assets.twitter_icon} alt="" /></a> 
+                  <a href="https://www.linkedin.com/in/arif-ali-647001247/"><img src={assets.twitter_icon} alt="" /></a> 
                   <a href="https://www.linkedin.com/in/arif-ali-647001247/"><img src={assets.linkedin_icon} alt="" /></a>  
                 </div>
              </div>

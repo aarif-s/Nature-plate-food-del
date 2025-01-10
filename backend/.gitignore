@@ -1,0 +1,29 @@
+# Node modules folder
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+*.tmp
+*.pid
+*.seed
+*.gz
+
+# OS and Editor specific
+.DS_Store
+.idea/
+.vscode/
+Thumbs.db
+
+# Build outputs
+dist/
+build/
+
+# Dependency lock files (if not required for CI/CD)
+yarn.lock
+package-lock.json
