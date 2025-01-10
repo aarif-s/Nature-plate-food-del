@@ -26,10 +26,13 @@ hr{
 .app-content{
    display: flex;
   
+<<<<<<< HEAD
 }
 
 .flex-col{
   display: flex;
   flex-direction: column ;
   gap: 10px;
+=======
+>>>>>>> 2640bdbad32602d34b86135de4a00bf02b6888b3
 }

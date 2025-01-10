@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import React from 'react'
 import './Header.css'
 
@@ -15,3 +16,22 @@ const Header = () => {
 }
 
 export default Header
+=======
+import React from 'react'
+import './Header.css'
+
+const Header = () => {
+  return (
+    <div className='header'>
+        <div className="header-contents">
+            <h2>Order your favourite food here</h2>
+            <p>Choose from a diverse menu featuring a delectable array of dishes crafted eith the finest ingradients and culinary expertise. Our mission is to stisfy your carvings and elevate your dining experience one meal at a time </p>
+            <button>View Menu</button>
+            
+        </div>
+    </div>
+  )
+}
+
+export default Header
+>>>>>>> 2640bdbad32602d34b86135de4a00bf02b6888b3
